@@ -4,7 +4,7 @@ A modern web application that dynamically loads and displays the first 50 Airbnb
 
 ## 🚀 Live Demo
 
-**[View Live Project](https://yourusername.github.io/your-repo-name/)**
+**[View Live Project](https://kanadmotiwale.github.io/jsdomassess/)**
 
 *(Replace with your actual GitHub Pages URL)*
 
